@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HRITIKAHALAWAT1212
+- 👀 I’m interested in Data science and Machine learning.
+- 🌱 I’m currently learning how to build API and looking forward to get into machine learning.
